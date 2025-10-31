@@ -1,6 +1,6 @@
 # Oi, eu sou a Maria 💻✨
 
-Eu tenho 24 anos. Sou de **Belém do Pará 🌴☀️**, formada em **Gestão de TI pela Unip 🎓**,  
+Eu tenho 25 anos. Sou de **Belém do Pará 🌴☀️**, formada em **Gestão de TI pela Unip 🎓**,  
 e atualmente estudante de **Ciência da Computação** na Estacio (Estou no segundo semestre).  
 
 🌸 Apaixonada por tecnologia, criatividade e jogos!  
