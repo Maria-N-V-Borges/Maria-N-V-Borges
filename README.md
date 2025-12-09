@@ -27,6 +27,7 @@ Busco sempre aprender, construir projetos reais e compartilhar minha jornada.
   <img height="180em" src="https://gh-stats-api.vercel.app/api?username=Maria-N-V-Borges&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://gh-stats-api.vercel.app/api/top-langs/?username=Maria-N-V-Borges&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 ---
 
 ## ⭐ Projetos em Destaque
