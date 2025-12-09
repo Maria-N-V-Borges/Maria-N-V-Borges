@@ -2,7 +2,9 @@
 👩‍💻 Desenvolvedora em formação, apaixonada por criar projetos que unem tecnologia, arte e narrativas de jogos. Meu foco atual está no desenvolvimento web, games 2D com Godot e ilustração digital.
 Busco sempre aprender, construir projetos reais e compartilhar minha jornada.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-de-n-v-borges-7a7315399/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariadev.art/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-de-n-v-borges-7a7315399/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariadev.art/)
+[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/Maria_N.V_Borges)
 
 ---
 
