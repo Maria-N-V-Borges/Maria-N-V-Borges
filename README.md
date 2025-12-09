@@ -57,4 +57,4 @@ Busco sempre aprender, construir projetos reais e compartilhar minha jornada.
 
 ## 💌 Vamos conversar?
 Se quiser falar sobre tecnologia, games, arte digital ou colaborações, me chama! 😊  
-📩 **Email:** m.borges.cc@gmail.com
+📩 **Email:** m.nazare.borges.cc@gmail.com
