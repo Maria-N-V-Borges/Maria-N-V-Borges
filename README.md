@@ -1,11 +1,6 @@
 # Oi, eu sou a Maria 💻✨
-**Desenvolvedora em formação | Artista digital | Apaixonada por tecnologia e games**
-
-Eu tenho 25 anos. Sou de **Belém do Pará 🌴☀️**, formada em **Gestão de TI pela Unip 🎓**,  
-e atualmente estudante de **Ciência da Computação** na Estacio (Passei para o terceiro semestre).  
-
-🌸 Apaixonada por tecnologia, criatividade e jogos!  
-Amo programar, desenhar digitalmente e explorar o mundo dos animes, RPGs e otome games.  
+👩‍💻 Desenvolvedora em formação, apaixonada por criar projetos que unem tecnologia, arte e narrativas de jogos. Meu foco atual está no desenvolvimento web, games 2D com Godot e ilustração digital.
+Busco sempre aprender, construir projetos reais e compartilhar minha jornada.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-de-n-v-borges-7a7315399/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariadev.art/)  
 
@@ -26,11 +21,39 @@ Amo programar, desenhar digitalmente e explorar o mundo dos animes, RPGs e otome
 
 ---
 
-## 📚 Atualmente estudando
-- 🌐 Desenvolvimento Web: **HTML5, CSS, JavaScript e PHP**  
-- 🐍 Python
-- Linguagem C
-- Desenvolvimento de jogos 2D com Godot  
-- Inglês intermediário (rumo ao B2 🚀)
-- Blender
-  
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://gh-stats-api.vercel.app/api?username=Maria-N-V-Borges&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://gh-stats-api.vercel.app/api/top-langs/?username=Maria-N-V-Borges&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+---
+
+## ⭐ Projetos em Destaque
+
+- 🎮 **Jogo 2D no Godot – Minha Jornada com Godot 4.2**  
+  *Exploração, colisão, movimento e animações.*  
+  🔗 [Repositório](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
+
+- 🌐 **Meu Blog em HTML/CSS/JS**  
+  *Página inicial, posts, menu fixo e futuro modo dark.*  
+  🔗 [Repositório](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
+
+- 🐍 **Mini Projetos em Python**  
+  *Desafios, automações simples e lógica.*  
+  🔗 [Repositório](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
+
+---
+
+## 🌱 Objetivos atuais
+- Criar meu primeiro jogo completo na Godot  
+- Desenvolver meu próprio portfólio web  
+- Melhorar meu inglês para nível B2  
+- Aprender React futuramente  
+- Evoluir no Blender para modelagem 3D completa
+
+---
+
+## 💌 Vamos conversar?
+Se quiser falar sobre tecnologia, games, arte digital ou colaborações, me chama! 😊  
+📩 **Email:** m.borges.cc@gmail.com
