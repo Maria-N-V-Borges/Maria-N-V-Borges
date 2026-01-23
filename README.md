@@ -1,14 +1,17 @@
-# Oi, eu sou a Maria 💻✨
-👩‍💻 Desenvolvedora em formação, apaixonada por criar projetos que unem tecnologia, arte e narrativas de jogos. Meu foco atual está no desenvolvimento web, games 2D com Godot e ilustração digital.
-Busco sempre aprender, construir projetos reais e compartilhar minha jornada.
+# Hi, I'm Maria 💻✨
+
+I'm a Computer Science student passionate about game development, web technologies, and digital art.
+I enjoy learning new tools and turning ideas into interactive projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-de-n-v-borges-7a7315399/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariadev.art/)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://maria-n-v-borges.itch.io/)
 [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/Maria_N.V_Borges)
+
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -23,7 +26,7 @@ Busco sempre aprender, construir projetos reais e compartilhar minha jornada.
 
 ---
 
-## 📊 Estatística do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://gh-stats-api.vercel.app/api/top-langs/?username=Maria-N-V-Borges&layout=compact&langs_count=7&theme=dracula"/>
@@ -31,31 +34,39 @@ Busco sempre aprender, construir projetos reais e compartilhar minha jornada.
 
 ---
 
-## ⭐ Projetos em Destaque
+## ⭐ Featured Projects
 
-- 🎮 **Jogo 2D no Godot – Minha Jornada com Godot 4.2**  
-  *Exploração, colisão, movimento e animações.*  
+- 🎮 **2D Gameplay in Godot – My Journey with Godot 4.2**
+  *Exploration, collision, movement, and animations.*
   🔗 [Repositório](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
 
-- 🌐 **Meu Blog em HTML/CSS/JS**  
-  *Página inicial, posts, menu fixo e futuro modo dark.*  
+- 🌐 **My Blog in HTML/CSS/JS**
+  *Homepage, posts, fixed menu, and dark mode.* 
   🔗 [Repositório](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
 
-- 🐍 **Mini Projetos em Python**  
-  *Desafios, automações simples e lógica.*  
+- 🐍 **Mini Projects in Python**
+  *Challenges, simple automations, and logic.* 
   🔗 [Repositório](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
 
+- ♟️ **Chess Game in C**
+  *Practice in logic and structured programming.*
+  🔗 [Resositório](https://github.com/Maria-N-V-Borges/matecheck-c)
 ---
 
-## 🌱 Objetivos atuais
-- Criar meu primeiro jogo completo na Godot  
-- Desenvolver meu próprio portfólio web  
-- Melhorar meu inglês para nível B2  
-- Aprender React futuramente  
-- Evoluir no Blender para modelagem 3D completa
+## 🌱 Current Goals
+- Create my first complete game using Godot  
+- Develop my own web portfolio  
+- Learn React in the future  
+- Improve my Blender skills for full 3D modeling
 
 ---
 
-## 💌 Vamos conversar?
-Se quiser falar sobre tecnologia, games, arte digital ou colaborações, me chama! 😊  
+## 🌍 Languages
+- Portuguese: Native  
+- English: Intermediate
+
+---
+
+## 💌 Let's chat?
+If you want to talk about technology, games, digital art, or collaborations, hit me up! 😊
 📩 **Email:** m.nazare.borges.cc@gmail.com
