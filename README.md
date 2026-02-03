@@ -40,28 +40,28 @@ I enjoy learning new tools and turning ideas into interactive projects.
   
   *Exploration, collision, movement, and animations.*
   
-  🔗 [Repositório](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
+  🔗 [Repository](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
   
 
 - 🌐 **My Blog in HTML/CSS/JS**
   
   *Homepage, posts, fixed menu, and dark mode.*
   
-  🔗 [Repositório](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
+  🔗 [Repository](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
 
 
 - 🐍 **Mini Projects in Python**
   
   *Challenges, simple automations, and logic.*
   
-  🔗 [Repositório](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
+  🔗 [Repository](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
   
 
 - ♟️ **Chess Game in C**
   
   *Practice in logic and structured programming.*
   
-  🔗 [Resositório](https://github.com/Maria-N-V-Borges/matecheck-c)
+  🔗 [Resository](https://github.com/Maria-N-V-Borges/matecheck-c)
   
 ---
 
