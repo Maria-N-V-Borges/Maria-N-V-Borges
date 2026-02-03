@@ -73,15 +73,15 @@ I enjoy learning new tools and turning ideas into interactive projects.
   🔗 [Resository](https://github.com/Maria-N-V-Borges/matecheck-c)
 
   <br>
-  
-- **Blender**
+  - **Blender**
    This asset was modeled in Blender and is suitable for games and real-time environments.
 
-     Includes:
+    Includes:
    - Treasure Chest (low poly)
    - Barrel (low poly)
 
-Formats: .blend / .fbx
+Formats: .blend / 
+
 ---
 
 ## 🌱 Current Goals
