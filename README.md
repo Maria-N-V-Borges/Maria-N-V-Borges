@@ -39,6 +39,14 @@ I enjoy learning new tools and turning ideas into interactive projects.
 - 🎮 **2D Gameplay in Godot – My Journey with Godot 4.2**
   
   *Exploration, collision, movement, and animations.*
+
+This game is currently in development.
+
+I'm sharing my learning process and progress as I build it with Godot 4.2.
+
+📸 Development videos:
+- [Instagram](https://www.instagram.com/reel/DT4GFqajgNC/?igsh=MTcxZTN6MXRxdGJsZw==)
+- LinkedIn: link
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
   
