@@ -47,7 +47,8 @@ I enjoy learning new tools and turning ideas into interactive projects.
     - [Instagram](https://www.instagram.com/reel/DT4GFqajgNC/?igsh=MTcxZTN6MXRxdGJsZw==)
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
-  
+
+  <br>
 
 - 🌐 **My Blog in HTML/CSS/JS**
   
@@ -57,20 +58,30 @@ I enjoy learning new tools and turning ideas into interactive projects.
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
 
-
+<br>
 - 🐍 **Mini Projects in Python**
   
   *Challenges, simple automations, and logic.*
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
   
-
+<br>
 - ♟️ **Chess Game in C**
   
   *Practice in logic and structured programming.*
   
   🔗 [Resository](https://github.com/Maria-N-V-Borges/matecheck-c)
+
+  <br>
   
+- **Blender**
+   This asset was modeled in Blender and is suitable for games and real-time environments.
+
+     Includes:
+   - Treasure Chest (low poly)
+   - Barrel (low poly)
+
+Formats: .blend / .fbx
 ---
 
 ## 🌱 Current Goals
