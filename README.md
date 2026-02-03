@@ -46,7 +46,7 @@ I'm sharing my learning process and progress as I build it with Godot 4.2.
 
 📸 Development videos:
 - [Instagram](https://www.instagram.com/reel/DT4GFqajgNC/?igsh=MTcxZTN6MXRxdGJsZw==)
-- LinkedIn: link
+- [LinkedIn](https://www.linkedin.com/posts/maria-de-n-v-borges-7a7315399_gamedevelopment-godot-godotengine-activity-7420088447199072256-OcpN?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAGHBqy8BxCDRuF0pupN-xLlqHPW-1Cgu43Q&utm_campaign=copy_link)
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
   
