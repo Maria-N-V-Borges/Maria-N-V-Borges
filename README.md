@@ -40,12 +40,11 @@ I enjoy learning new tools and turning ideas into interactive projects.
   
   *Exploration, collision, movement, and animations.*
 
-This game is currently in development.
+   This game is currently in development.
 
-I'm sharing my learning process and progress as I build it with Godot 4.2.
+   I'm sharing my learning process and progress as I build it with Godot 4.2.
 
-📸 Development video:
-- [Instagram](https://www.instagram.com/reel/DT4GFqajgNC/?igsh=MTcxZTN6MXRxdGJsZw==)
+    - [Instagram](https://www.instagram.com/reel/DT4GFqajgNC/?igsh=MTcxZTN6MXRxdGJsZw==)
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
   
@@ -53,6 +52,8 @@ I'm sharing my learning process and progress as I build it with Godot 4.2.
 - 🌐 **My Blog in HTML/CSS/JS**
   
   *Homepage, posts, fixed menu, and dark mode.*
+
+  👉 Veja online: [Clique aqui](https://maria-n-v-borges.github.io/Primeira-pagina-web/)
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
 
