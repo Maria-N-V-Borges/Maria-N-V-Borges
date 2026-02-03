@@ -59,6 +59,7 @@ I enjoy learning new tools and turning ideas into interactive projects.
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
 
 <br>
+
 - 🐍 **Mini Projects in Python**
   
   *Challenges, simple automations, and logic.*
@@ -66,6 +67,7 @@ I enjoy learning new tools and turning ideas into interactive projects.
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
   
 <br>
+
 - ♟️ **Chess Game in C**
   
   *Practice in logic and structured programming.*
