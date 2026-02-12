@@ -1,5 +1,7 @@
 # Hi, I'm Maria 💻✨
 
+📍 Based in Belém, PA - Brazil | Computer Science Student @Estácio
+
 I'm a Computer Science student passionate about game development, web technologies, and digital art.
 I enjoy learning new tools and turning ideas into interactive projects.
 
@@ -60,9 +62,9 @@ I enjoy learning new tools and turning ideas into interactive projects.
 
 <br>
 
-- 🐍 **Mini Projects in Python**
-  
-  *Challenges, simple automations, and logic.*
+- 🐍 Python Mastery - Curso em Vídeo
+
+  *Logic, Data Structures (Lists, Dicts), Exception Handling, and Modularization.*
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
   
