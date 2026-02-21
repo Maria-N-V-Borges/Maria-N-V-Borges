@@ -67,14 +67,6 @@ I enjoy learning new tools and turning ideas into interactive projects.
   *Logic, Data Structures (Lists, Dicts), Exception Handling, and Modularization.*
   
   🔗 [Repository](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
-  
-<br>
-
-- ♟️ **Chess Game in C**
-  
-  *Practice in logic and structured programming.*
-  
-  🔗 [Resository](https://github.com/Maria-N-V-Borges/matecheck-c)
 
 <br>
 
