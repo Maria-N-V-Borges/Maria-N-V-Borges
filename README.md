@@ -1,9 +1,9 @@
 # Hi, I'm Maria 💻✨
 
-📍 Belém, PA - Brazil | Computer Science Student
+📍 Belém, PA, Brazil | Computer Science Student
 
 I'm a Computer Science student passionate about game development, web technologies, and digital art.  
-I enjoy learning new tools and turning ideas into interactive projects — especially when I can connect frontend and backend.
+I enjoy building interactive projects — especially when connecting frontend and backend systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-de-n-v-borges-7a7315399/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariadev.art/)
@@ -24,6 +24,7 @@ I enjoy learning new tools and turning ideas into interactive projects — espec
 ## ⭐ Featured Projects
 
 ### 🏭 Production Management System 
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SocorroBorges/cherry-cost)
 
 *Web system for managing materials and production costs.*
 
@@ -52,11 +53,10 @@ I enjoy learning new tools and turning ideas into interactive projects — espec
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🔗 [Repository](https://github.com/SocorroBorges/cherry-cost)
+---
 
-<br>
-
-### 🌐 Network Monitor (Python Polling)
+### 🌐 Network Monitor (Python Polling) 
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/py-server-monitor)
 
 *Python script for monitoring server availability using polling.*
 
@@ -77,11 +77,10 @@ I enjoy learning new tools and turning ideas into interactive projects — espec
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🔗 [Repository](https://github.com/Maria-N-V-Borges/py-server-monitor)
-
-<br>
+---
  
 ### 🌐 Personal Web Blog
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maria-n-v-borges.github.io/Primeira-pagina-web/)  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
 
 *Multi-page website built with HTML, CSS, and JavaScript.*
 
@@ -109,12 +108,10 @@ I enjoy learning new tools and turning ideas into interactive projects — espec
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-👉 Live Demo: [Clique aqui](https://maria-n-v-borges.github.io/Primeira-pagina-web/)  
-🔗 [Repository](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
-
-<br>
+---
 
 ### 🤖 Python RPG Bot (Dev Quest)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/python-rpg-bot)
 
 *Interactive chatbot with quiz and RPG-inspired progression system.*
 
@@ -138,11 +135,10 @@ I enjoy learning new tools and turning ideas into interactive projects — espec
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🔗 [Repository](https://github.com/Maria-N-V-Borges/python-rpg-bot)
-
-<br>
+---
 
 ### 🎮 2D Platformer (Doodle Jump Style)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
 
 *Endless jumping game built with Godot 4.*
 
@@ -167,8 +163,7 @@ I enjoy learning new tools and turning ideas into interactive projects — espec
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-🔗 [Repository](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
-
+---
 
 ### 🎨 Blender Assets
 
