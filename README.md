@@ -1,6 +1,6 @@
 # Hi, I'm Maria 💻✨
 
-📍 Based in Belém, PA - Brazil | Computer Science Student Estácio
+📍 Belém, PA - Brazil | Computer Science Student Estácio
 
 I'm a Computer Science student passionate about game development, web technologies, and digital art.  
 I enjoy learning new tools and turning ideas into interactive projects — especially when I can connect frontend and backend.
