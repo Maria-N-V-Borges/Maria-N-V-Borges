@@ -19,121 +19,39 @@ I enjoy building interactive projects — especially when connecting frontend an
   <img height="180em" src="https://gh-stats-api.vercel.app/api/top-langs/?username=Maria-N-V-Borges&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
+### 💻 Maria's Personal Portfolio
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/portfolio)
+[![View Site](https://img.shields.io/badge/View_Site-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white)](https://maria-n-v-borges.github.io/Portfolio/)
 
-## ⭐ Featured Projects
+Personal website showcasing my journey in Computer Science, Web & Game Dev.
 
-### 🏭 Production Management System 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SocorroBorges/cherry-cost)
+📌 A responsive portfolio built from scratch to showcase my projects, skills, education, and creative work combining programming, game development, and digital art.
 
-*Web system for managing materials and production costs.*
+**✨ Features:** 
 
-📌 A project focused on backend + frontend integration using Flask and JavaScript.
+- Custom dark-themed design with blue neon visual identity
 
-**✨ Features:**
-- Material registration, listing, editing, and deletion  
-- Inline editing directly in the table  
-- Asynchronous communication with `fetch()`  
-- Database integration with PostgreSQL  
+- Responsive layout adapted for various screen sizes
 
-**🧠 What I learned:**
-- Flask Blueprints for route organization  
-- SQLAlchemy for database manipulation  
-- Frontend + backend integration  
-- AJAX communication using fetch()  
-- Dynamic table updates without reload  
+- Animated typing effects powered by Typed.js
 
-**🛠 Tech Stack:**
+- Integrated links to professional networks, games (itch.io), and repositories
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🌐 Network Monitor (Python Polling) 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/py-server-monitor)
-
-*Python script for monitoring server availability using polling.*
-
-📌 A lightweight project focused on networking concepts and real-time monitoring.
-
-**✨ Features:**
-- Periodic server status checks (Polling system)  
-- Detection of offline servers and HTTP errors  
-- Terminal-based visual feedback (structured logs)  
+- Focused sections for Web Development, Godot, and 3D Art
 
 **🧠 What I learned:**
-- HTTP requests using the requests library  
-- Basic network monitoring concepts  
-- Error handling in real-world scenarios  
-- Writing clean and readable terminal output  
 
-**🛠 Tech Stack:**
+- Building clean and responsive layouts from scratch with HTML5 & CSS3
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- DOM manipulation and dynamic interactivity using JavaScript
 
----
- 
-### 🌐 Personal Web Blog
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maria-n-v-borges.github.io/Primeira-pagina-web/)  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/Primeira-pagina-web)
+- Integrating external libraries and resources (Typed.js, Font Awesome, Google Fonts)
 
-*Multi-page website built with HTML, CSS, and JavaScript.*
+- Web deployment and automated hosting workflows with GitHub Pages
 
-📌 A project focused on learning and applying core web development concepts, evolving from a simple page into a structured website.
+- Organizing code and structural project architecture for frontend projects
 
-**✨ Features:**
-- Multi-page navigation (Home, Blog, Projects, Contact, etc.)  
-- Dark mode with state persistence (localStorage)  
-- Interactive elements using JavaScript (lamp toggle, menu)  
-- Styled tables and forms  
-- Organized CSS structure (multiple files)  
-
-**🧠 What I learned:**
-- Structuring web pages using HTML5  
-- Styling and layout with CSS3  
-- DOM manipulation with JavaScript  
-- Handling user interactions and events  
-- Maintaining UI state across pages  
-- Organizing scalable front-end projects  
-
-**🛠 Tech Stack:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-### 🤖 Python RPG Bot (Dev Quest)
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/python-rpg-bot)
-
-*Interactive chatbot with quiz and RPG-inspired progression system.*
-
-📌 A project focused on logic building, modular programming, and user interaction.
-
-**✨ Features:**
-- Programming quiz challenges  
-- Score tracking system  
-- Motivational chatbot responses  
-- Randomized questions  
-- Modular project structure  
-
-**🧠 What I learned:**
-- Organizing Python projects into multiple files  
-- Working with dictionaries and lists  
-- Using the random module for dynamic behavior  
-- Designing simple chatbot logic  
-- Structuring interactive CLI applications  
-
-**🛠 Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
