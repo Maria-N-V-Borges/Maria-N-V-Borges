@@ -21,7 +21,7 @@ I enjoy building interactive projects — especially when connecting frontend an
 
 ### 💻 Maria's Personal Portfolio
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/portfolio)
-[![View Site](https://img.shields.io/badge/View_Site-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white)](https://maria-n-v-borges.github.io/Portfolio/)
+[![View Site](https://img.shields.io/badge/View_Site-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white)](https://maria-n-v-borges.github.io/portfolio/)
 
 Personal website showcasing my journey in Computer Science, Web & Game Dev.
 
