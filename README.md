@@ -55,6 +55,31 @@ Personal website showcasing my journey in Computer Science, Web & Game Dev.
 
 ---
 
+### 🐍 Python Coding Challenges (Curso em Vídeo)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/Aprendendo_Python)
+
+*Collection of solved Python exercises and challenges focused on logic and algorithms.*
+
+📌 A complete repository containing all code challenges solved during Professor Guanabara's Python course, covering basic syntax to object-oriented programming fundamentals.
+
+**✨ Features:**
+- Organized directory structure divided by modules and difficulty levels  
+- Solutions covering data structures (lists, tuples, dictionaries)  
+- Code implementations focused on readability and best practices  
+- Custom scripts for data manipulation, file handling, and modular functions  
+
+**🧠 What I learned:**
+- Core programming logic, control flow, and loop structures  
+- Handling different data structures (tuples, lists, and dictionaries)  
+- Function creation, parameters, docstrings, and module reuse  
+- Exception handling and reading/writing external text files  
+
+**🛠 Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
 ### 🎮 2D Platformer (Doodle Jump Style)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-N-V-Borges/Godot4_doodle_jump)
 
