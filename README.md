@@ -115,7 +115,9 @@ Personal website showcasing my journey in Computer Science, Web & Game Dev.
 Low poly models for games and real-time environments:
 
 - Treasure Chest  
-- Barrel  
+- Barrel
+- Backpack
+- Medieval Key *(In progress)*  
 
 Formats: `.blend` / `.glb`
 
